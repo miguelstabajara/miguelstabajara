@@ -1,4 +1,4 @@
-# Olá, eu sou o Miguel!
+<p align="center"># Olá, eu sou o Miguel!</p>&nbsp;
 <p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por todos os assuntos que abrangem a tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
