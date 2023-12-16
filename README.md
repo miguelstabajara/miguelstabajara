@@ -2,7 +2,7 @@
 <p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por todos os assuntos que abrangem a tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=miguelstabajara&theme=radical&mode=weekly" />
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
  </div>
  
  &nbsp;
