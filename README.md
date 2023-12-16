@@ -21,10 +21,8 @@
 
 #### Secondary Stack:
 
-![Java](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=Prolog&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-008000?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
