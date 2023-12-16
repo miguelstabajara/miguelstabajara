@@ -4,6 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=miguelstabajara&theme=radical&mode=weekly" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelstabajara&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
  </div>
  
  &nbsp;
