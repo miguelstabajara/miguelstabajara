@@ -4,8 +4,8 @@
 <p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por todos os assuntos que abrangem a tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=miguelstabajara&theme=radical&mode=weekly" />
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelstabajara&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=miguelstabajara&theme=radical&mode=weekly" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelstabajara&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
  </div>
  
  &nbsp;
