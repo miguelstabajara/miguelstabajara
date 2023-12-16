@@ -1,4 +1,5 @@
-<p align="center"># Olá, eu sou o Miguel!</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Miguel;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
 <p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por todos os assuntos que abrangem a tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
