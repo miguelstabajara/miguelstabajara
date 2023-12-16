@@ -29,7 +29,8 @@
 
 #### Studying in this moment:
 
-![Computer Science](https://img.shields.io/badge/computerscience-FFA500?style=for-the-badge&logo=computerscience&logoColor=white)&nbsp;
+![Computer Science](https://img.shields.io/badge/computer_science-FFA500?style=for-the-badge&logo=computer_science&logoColor=white)&nbsp;
+![POO](https://img.shields.io/badge/POO-FF0000?style=for-the-badge&logo=POO&logoColor=white)&nbsp;
 
 #### Databases:
 
