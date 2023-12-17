@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Miguel;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-<p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por todos os assuntos que abrangem a tecnologia.</p>&nbsp;
+<p align="center">Apaixonado por resolver problemas desafiadores com programação e matemática. <br><br> Estudante de ciência da computação e curioso patológico por assuntos que abrangem a tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50%  src="https://github-readme-streak-stats.herokuapp.com?user=miguelstabajara&theme=radical&mode=weekly" />
