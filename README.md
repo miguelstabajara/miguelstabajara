@@ -31,6 +31,8 @@
 
 ![Computer Science](https://img.shields.io/badge/computer_science-FFA500?style=for-the-badge&logo=computer_science&logoColor=white)&nbsp;
 ![POO](https://img.shields.io/badge/POO-FF0000?style=for-the-badge&logo=POO&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)&nbsp;
+![Haskell](https://img.shields.io/badge/Haskell-993399?style=for-the-badge&logo=Haskell&logoColor=white)&nbsp;
 
 ## Contacts:
 
