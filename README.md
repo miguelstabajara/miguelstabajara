@@ -33,7 +33,7 @@
 ![POO](https://img.shields.io/badge/POO-FF0000?style=for-the-badge&logo=POO&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-1d3c6e?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-993399?style=for-the-badge&logo=Haskell&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/Csharp-15ff00?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/Csharp-15ff00?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;
 
 ## Contacts:
