@@ -25,7 +25,7 @@
 #### Secondary Stack:
 
 ![Prolog](https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=Prolog&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-ffa600?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-ffa600?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
