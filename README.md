@@ -18,13 +18,13 @@
 #### Main Stack:
 
 ![C](https://img.shields.io/badge/C-050542?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-1d3c6e?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
 ![Java](https://img.shields.io/badge/java-ffa600?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-1d3c6e?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 
 #### Practical understanding of:
 
