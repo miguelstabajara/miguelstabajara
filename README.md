@@ -19,7 +19,7 @@
 
 ![C](https://img.shields.io/badge/C-050542?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-<img src="https://jbchost.com.br/madeinjapan/wp-content/uploads/2016/06/totoro_run.gif" max-width=400 min-width=400 align="right" alt="Computador iuriCode">
+<img src="https://jbchost.com.br/madeinjapan/wp-content/uploads/2016/06/totoro_run.gif" max-width=400px min-width=400px width=400px align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
