@@ -19,7 +19,6 @@
 
 ![C](https://img.shields.io/badge/C-050542?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <iframe src="https://gifer.com/embed/4Ee9" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
