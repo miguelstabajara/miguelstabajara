@@ -29,12 +29,12 @@
 #### Practical understanding of:
 
 ![Prolog](https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=Prolog&logoColor=black)&nbsp;
+![Haskell](https://img.shields.io/badge/Haskell-993399?style=for-the-badge&logo=Haskell&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
 ![Computer Science](https://img.shields.io/badge/computer_science-75270b?style=for-the-badge&logo=computer_science&logoColor=white)&nbsp;
 ![POO](https://img.shields.io/badge/POO-333332?style=for-the-badge&logo=POO&logoColor=white)&nbsp;
-![Haskell](https://img.shields.io/badge/Haskell-993399?style=for-the-badge&logo=Haskell&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/Csharp-15ff00?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;
 
